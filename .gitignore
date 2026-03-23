@@ -1,3 +1,7 @@
 .env
 learn_env
 __pycache__
+chatbot.db
+chatbot.db-x-checkpoints-4-checkpoint.bin
+chatbot.db-shm
+chatbot.db-wal
